@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            textBox2.Text = textBox1.Text;
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -31,6 +31,30 @@ namespace WindowsFormsApp1
             textBox2.Text = textBox1.Text;
         }
 
-        
+        private void button_Negm(object sender, EventArgs e)
+        {
+            textBox2.Text = textBox1.Text;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Enabled = false;
+            textBox2.Enabled = false;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Enabled = true;
+            textBox2.Enabled = true;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Orange;
+            button2.BackColor = Color.Orange;
+            button3.BackColor = Color.Orange;
+            button4.BackColor = Color.Orange;
+            button5.BackColor = Color.Orange;
+        }
     }
 }

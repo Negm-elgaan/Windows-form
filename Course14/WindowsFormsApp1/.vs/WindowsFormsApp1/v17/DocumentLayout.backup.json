@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\omarh\\Windows-form\\Course14\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85E7D734-0E06-48E9-B1DF-42F413AFA736}|WindowsFormsApp1.csproj|c:\\users\\omarh\\windows-form\\course14\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85E7D734-0E06-48E9-B1DF-42F413AFA736}|WindowsFormsApp1.csproj|C:\\Users\\omarh\\Windows-form\\Course14\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85E7D734-0E06-48E9-B1DF-42F413AFA736}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\omarh\\Windows-form\\Course14\\WindowsFormsApp1\\Form1.cs*",
               "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T23:33:43.524Z",
               "EditorCaption": ""
