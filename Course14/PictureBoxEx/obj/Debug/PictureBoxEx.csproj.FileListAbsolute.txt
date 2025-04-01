@@ -1,0 +1,10 @@
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\bin\Debug\PictureBoxEx.exe.config
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\bin\Debug\PictureBoxEx.exe
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\bin\Debug\PictureBoxEx.pdb
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\obj\Debug\PictureBoxEx.csproj.AssemblyReference.cache
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\obj\Debug\PictureBoxEx.Form1.resources
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\obj\Debug\PictureBoxEx.Properties.Resources.resources
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\obj\Debug\PictureBoxEx.csproj.GenerateResource.cache
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\obj\Debug\PictureBoxEx.csproj.CoreCompileInputs.cache
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\obj\Debug\PictureBoxEx.exe
+C:\Users\omarh\Windows-form\Course14\PictureBoxEx\obj\Debug\PictureBoxEx.pdb
