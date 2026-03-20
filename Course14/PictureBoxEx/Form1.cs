@@ -41,5 +41,10 @@ namespace PictureBoxEx
             PB1.Image = Image.FromFile(@"C:\Images\Pen.png");
             LBTitle.Text = "Pen";
         }
+
+        private void PB1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

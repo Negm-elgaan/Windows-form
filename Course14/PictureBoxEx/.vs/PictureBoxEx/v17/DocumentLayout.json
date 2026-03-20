@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\omarh\\Windows-form\\Course14\\PictureBoxEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|c:\\users\\omarh\\windows-form\\course14\\pictureboxex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|C:\\Users\\omarh\\Windows-form\\Course14\\PictureBoxEx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|c:\\users\\omarh\\windows-form\\course14\\pictureboxex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|c:\\users\\omarh\\windows-form\\course14\\pictureboxex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464CB7CF-BC9E-4D10-8B4E-98CCD374F39F}|PictureBoxEx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\omarh\\Windows-form\\Course14\\PictureBoxEx\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\omarh\\Windows-form\\Course14\\PictureBoxEx\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

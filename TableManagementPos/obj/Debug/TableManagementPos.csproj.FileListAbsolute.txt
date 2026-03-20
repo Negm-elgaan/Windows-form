@@ -1,0 +1,11 @@
+C:\Users\omarh\TableManagementPos\bin\Debug\TableManagementPos.exe.config
+C:\Users\omarh\TableManagementPos\bin\Debug\TableManagementPos.exe
+C:\Users\omarh\TableManagementPos\bin\Debug\TableManagementPos.pdb
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.csproj.AssemblyReference.cache
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.Form1.resources
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.Form2.resources
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.Properties.Resources.resources
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.csproj.GenerateResource.cache
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.csproj.CoreCompileInputs.cache
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.exe
+C:\Users\omarh\TableManagementPos\obj\Debug\TableManagementPos.pdb

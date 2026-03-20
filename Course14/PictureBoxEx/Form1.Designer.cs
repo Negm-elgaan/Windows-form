@@ -47,6 +47,7 @@
             this.PB1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.PB1.TabIndex = 0;
             this.PB1.TabStop = false;
+            this.PB1.Click += new System.EventHandler(this.PB1_Click);
             // 
             // LBTitle
             // 
